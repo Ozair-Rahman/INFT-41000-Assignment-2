@@ -1,0 +1,7 @@
+ultralytics
+opencv-python-headless
+streamlit
+streamlit_authenticator 
+streamlit_cropper
+numpy
+pillow
