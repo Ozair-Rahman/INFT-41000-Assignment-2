@@ -8,17 +8,12 @@
 docker pull lamoguy/inft-41000-assignment-2
 ```
 
-##### Step 2. Build Docker Image Into Docker Container
-```Dockerfile
-docker build -t "inft-41000-streamlit-app" .
-```
-
-##### Step3. Run Docker Container
+##### Step 2. Run Docker Container
 ```Dockerfile
 docker run -p 8501:8501 inft-41000-streamlit-app
 ```
 
-##### Step 4. Access App from Browser
+##### Step 3. Access App from Browser
 Go to any browser of choice and go to <http://localhost:8501> 
 
 ### 💻 From Source
@@ -50,6 +45,6 @@ streamlit run app.py
 Go to any browser of choice and go to :
 <http://localhost:8501> 
 
-### ☁️ Using Cloud
+### ☁️ Public Instances
 
-Go to any browser of choice and go to: <> 
+Go to any browser of choice and go to: <https://inft-41000-assignment-2.onrender.com/> 
