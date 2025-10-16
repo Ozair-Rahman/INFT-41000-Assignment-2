@@ -45,10 +45,3 @@ streamlit run app.py
 Go to any browser of choice and go to :
 <http://localhost:8501> 
 
-### ☁️ Public Instances List
-
-Go to any browser of choice and go to: 
-
-
-- <http://18.221.112.250:8501/> 
-- <https://inft-41000-assignment-2.onrender.com/> 
