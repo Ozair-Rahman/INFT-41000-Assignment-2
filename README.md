@@ -47,4 +47,4 @@ Go to any browser of choice and go to :
 
 ### ☁️ Public Instances
 
-Go to any browser of choice and go to: <https://inft-41000-assignment-2.onrender.com/> 
+Go to any browser of choice and go to: <http://3.14.130.90:8501/> 
